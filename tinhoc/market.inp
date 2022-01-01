@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define pb push_back
+#define fu(a,b,c) for(int i=a;i<=b;i=i+c)
+#define fd(a,b,c) for(int i=a;i>=b;i=i-c)
+    ll m,n,x;
+void nhap()
+{
+
+cin>>n>>m;
+fu(1,n,1)cin>>x;
+}
+int main()
+{
+
+}
